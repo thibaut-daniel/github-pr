@@ -7,3 +7,4 @@
 5. `git push origin branchname` : 8:15
 6. Go to the repo in GitHub and create the pull request! : 10:15
 7. Tada!! 🎉PR Created! : 11:08
+8. > LINE ADDED
